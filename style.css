@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(238, 174, 227);
+    color: rgb(15, 15, 15);
+    font-family: sans-serif;
+}
+
+.content {
+    width: 680px;
+    margin: auto;
+    text-align: center;
+}
+
+.movie-list {
+    list-style: none;
+}
+
+.button {
+    color: blue;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.button:hover {
+    text-decoration: underline;
+}
